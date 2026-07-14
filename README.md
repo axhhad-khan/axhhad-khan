@@ -1,14 +1,16 @@
 <div align="center">
-  <!-- Working High-Quality 3D Developer Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-5611804c-53f5-46b3-a859-af310eb292d0.gif" alt="3D Developer" width="350"/>
+  <!-- 3D Developer Animation -->
+  <img src="https://raw.githubusercontent.com/7o1ndro/7o1ndro/main/images/developer.gif" alt="3D Developer" width="350"/>
 
   <br><br>
 
-  <!-- Corrected & Working Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi+there%2C+I%27m+Ashhad+Khan%21+👋;Full-Stack+Developer+💻;Welcome+to+my+workspace%21+🚀" alt="Typing SVG" />
+  <!-- BUG FIXED: Removed emojis from URL to bypass GitHub Camo block -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ashhad+Khan!;Crafting+Digital+Experiences;Welcome+To+My+Workspace!" alt="Typing SVG" />
+  </a>
   
   <p align="center">
-    <b>💻 Full-Stack Developer | 🌍 Based in Karachi, Pakistan | 🚀 Tech Enthusiast</b>
+    <b>💻 Full-Stack Developer | 🌍 Based in Karachi | 🚀 Tech Enthusiast</b>
   </p>
 </div>
 
@@ -23,13 +25,13 @@
 
 <h3 align="center">📊 GitHub Activity</h3>
 <div align="center">
-  <!-- Highly Stable Tokyonight Theme Stats (Matches Purple Accent Perfectly) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=axhhad-khan&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" alt="Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axhhad-khan&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6" alt="Streak" width="48%" />
+  <!-- BUG FIXED: Removed width limits that were breaking the layout -->
+  <img src="https://github-readme-stats.vercel.app/api?username=axhhad-khan&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axhhad-khan&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6" alt="Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" alt="Footer" />
 </div>
