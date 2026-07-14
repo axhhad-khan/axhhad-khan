@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Working 3D Developer Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-5611804c-53f5-46b3-a859-af310eb292d0.gif" alt="3D Developer" width="350"/>
+  <img src="https://raw.githubusercontent.com/7o1ndro/7o1ndro/main/images/developer.gif" alt="3D Developer" width="350"/>
 
   <br><br>
 
-  <!-- BUG FIXED: URL Encoded the text (Fixed the "Hi," cutoff issue) -->
+  <!-- Clean Typing SVG (Fully Encoded) -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi%2C+I%27m+Ashhad+Khan%21;Crafting+Digital+Experiences;Welcome+To+My+Workspace%21" alt="Typing SVG" />
   
   <p align="center">
@@ -21,13 +21,20 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Activity</h3>
+<h3 align="center">📊 GitHub Activity & Stats</h3>
 <div align="center">
 
-<!-- BUG FIXED: Changed to Standard Markdown Format so GitHub Cache doesn't block it -->
-[![Ashhad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=axhhad-khan&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6)](https://github.com/axhhad-khan)
+  <!-- 100% WORKING NEON PURPLE ACTIVITY GRAPH -->
+  <a href="https://github.com/axhhad-khan">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=axhhad-khan&theme=tokyonight&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Ashhad's Activity Graph" width="100%" />
+  </a>
 
-[![Ashhad's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=axhhad-khan&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6)](https://github.com/axhhad-khan)
+  <br><br>
+
+  <!-- Working Streak Card -->
+  <a href="https://github.com/axhhad-khan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=axhhad-khan&theme=tokyonight&hide_border=true&ring=8B5CF6&fire=8B5CF6" alt="Ashhad's GitHub Streak" />
+  </a>
 
 </div>
 
