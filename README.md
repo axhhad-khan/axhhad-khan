@@ -1,47 +1,38 @@
 <div align="center">
-  <br>
-
-  <!-- 1. Central Character Animation GIF -->
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/5d064e101180237.5f1990a4dfb7d.gif" width="600" alt="Advanced Cyber Developer Human Animation" />
+  <!-- High-Quality 3D Isometric Developer Animation -->
+  <img src="https://raw.githubusercontent.com/7o1ndro/7o1ndro/main/images/developer.gif" alt="3D Developer" width="350"/>
 
   <br><br>
 
-  <!-- 2. Integrated Typing SVG Header -->
+  <!-- Clean Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=>+I'm+Ashhad+Khan+/+Futuristic+Developer+[v2.1];>+EXPLORE+SKILLS+>>+VIEW+PROJECTS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Hi,+I'm+Ashhad+Khan!+👋;Crafting+Digital+Experiences;Welcome+To+My+Workspace!+🚀" alt="Typing SVG" />
   </a>
-
+  
+  <p align="center">
+    <b>💻 Full-Stack Developer | 🌍 Based in Karachi, Pakistan | 🚀 Tech Enthusiast</b>
+  </p>
 </div>
 
-<br><br>
-<br><br>
+<br>
 
+<h3 align="center">🛠️ My Tech Arsenal</h3>
+<!-- Premium 3D-style Skill Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,aws,tensorflow,git,github,vscode,figma&theme=dark&perline=12" alt="Skills" />
+</p>
+
+<br>
+
+<h3 align="center">📊 GitHub Activity</h3>
 <div align="center">
-
-  <!-- 3. Neon-Glow Custom Tech Stack -->
-  <h2 align="center">NEURAL NET CONNECTIONS [SKILLS]</h2>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-
-  <br><br>
-
-  <!-- 4. Customized Neon Stats & Streak -->
-  <h2 align="center">GITHUB CORE PERFORMANCE DATA</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=axhhad-khan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&title_color=00F0FF&text_color=FFFFFF&icon_color=00F0FF" alt="Ashhad's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axhhad-khan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=FFFFFF" alt="Ashhad's GitHub Streak" />
-
+  <!-- Transparent Glassmorphism Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=axhhad-khan&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=A3A3A3&icon_color=8B5CF6" alt="Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axhhad-khan&theme=transparent&hide_border=true&title_color=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakNum=A3A3A3" alt="Streak" width="45%" />
 </div>
 
-<br><br>
-<br><br>
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" />
 </div>
